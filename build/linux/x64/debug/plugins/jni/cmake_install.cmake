@@ -1,8 +1,8 @@
-# Install script for directory: /home/lazz/mobile_dev_elective/student_task_tracker/linux/flutter/ephemeral/.plugin_symlinks/jni/linux
+# Install script for directory: /home/lazz/Student_task_tracker/linux/flutter/ephemeral/.plugin_symlinks/jni/linux
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "/home/lazz/mobile_dev_elective/student_task_tracker/build/linux/x64/debug/bundle")
+  set(CMAKE_INSTALL_PREFIX "/home/lazz/Student_task_tracker/build/linux/x64/debug/bundle")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -44,7 +44,7 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("/home/lazz/mobile_dev_elective/student_task_tracker/build/linux/x64/debug/plugins/jni/shared/cmake_install.cmake")
+  include("/home/lazz/Student_task_tracker/build/linux/x64/debug/plugins/jni/shared/cmake_install.cmake")
 
 endif()
 
